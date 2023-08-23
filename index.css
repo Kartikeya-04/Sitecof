@@ -1,0 +1,72 @@
+#Dj{
+    /* padding-top:90px; */
+    width:500px;
+    height:50px;
+    text-align:center;
+
+}
+body{
+    text-align:center;
+}
+.contain{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height:100vh;
+    background-color: blueviolet;
+
+    
+}
+.btn{
+    background-color: rgb(85, 85, 155);
+    height:40px;
+    width:90px;
+    border-radius: 35%;
+}
+h1{
+    font-family: 'Black Ops One', cursive;
+    font-size:4rem;
+    /* background-color: white; */
+}
+#Answer{
+    width:300px;
+    height:50px;
+}
+h4{
+    color: rgb(9, 52, 9);
+}
+
+
+
+
+
+
+@media(max-width:700px){
+    #Dj{
+        width:170px;
+        height:30px;
+    }
+    #dd{
+        padding-bottom:50px;
+    }
+}
+
+.dark{
+    background-color:black;
+}
+.bg1{
+    background-color:white;
+}
+.bg2{
+    background-color:yellow ;
+}
+#dd{
+    height:75px;
+    /* width:100%; */
+    padding-bottom:0px;
+}
+
+.neo{
+    background-color: greenyellow;
+}
